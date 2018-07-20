@@ -1,0 +1,866 @@
+[
+    {
+        "outputFile": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\aFileChooser\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\aFileChooser\\src\\main\\res\\values\\bool.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 41,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 42,
+                    "endOffset": 135
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\aFileChooser\\src\\main\\res\\values\\bool.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 42,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 140,
+                    "endColumn": 48,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\aFileChooser\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 770,
+                        "endColumn": 45,
+                        "endOffset": 814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 42,
+                    "endOffset": 227
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\aFileChooser\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 729,
+                        "endColumn": 39,
+                        "endOffset": 767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 232,
+                    "endColumn": 54,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\aFileChooser\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1091,
+                        "endColumn": 54,
+                        "endOffset": 1141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 53,
+                    "endOffset": 336
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\aFileChooser\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 902,
+                        "endColumn": 53,
+                        "endOffset": 951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 341,
+                    "endColumn": 59,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\aFileChooser\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 762,
+                        "endColumn": 59,
+                        "endOffset": 817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 69,
+                    "endOffset": 466
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\aFileChooser\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 957,
+                        "endColumn": 69,
+                        "endOffset": 1022
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 471,
+                    "endColumn": 61,
+                    "endOffset": 528
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\aFileChooser\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1028,
+                        "endColumn": 61,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 533,
+                    "endColumn": 77,
+                    "endOffset": 606
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\aFileChooser\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 823,
+                        "endColumn": 77,
+                        "endOffset": 896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 611,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1121
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\aFileChooser\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 734,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1252
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "I:\\media\\root\\56E8D89D034D29FC1\\Locker\\aFileChooser\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC1\\Locker\\aFileChooser\\src\\main\\res\\values\\bool.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 41,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 42,
+                    "endOffset": 135
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC1\\Locker\\aFileChooser\\src\\main\\res\\values\\bool.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 42,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 140,
+                    "endColumn": 48,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC1\\Locker\\aFileChooser\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 770,
+                        "endColumn": 45,
+                        "endOffset": 814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 42,
+                    "endOffset": 227
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC1\\Locker\\aFileChooser\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 729,
+                        "endColumn": 39,
+                        "endOffset": 767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 232,
+                    "endColumn": 54,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC1\\Locker\\aFileChooser\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1091,
+                        "endColumn": 54,
+                        "endOffset": 1141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 53,
+                    "endOffset": 336
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC1\\Locker\\aFileChooser\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 902,
+                        "endColumn": 53,
+                        "endOffset": 951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 341,
+                    "endColumn": 59,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC1\\Locker\\aFileChooser\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 762,
+                        "endColumn": 59,
+                        "endOffset": 817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 69,
+                    "endOffset": 466
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC1\\Locker\\aFileChooser\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 957,
+                        "endColumn": 69,
+                        "endOffset": 1022
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 471,
+                    "endColumn": 61,
+                    "endOffset": 528
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC1\\Locker\\aFileChooser\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1028,
+                        "endColumn": 61,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 533,
+                    "endColumn": 77,
+                    "endOffset": 606
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC1\\Locker\\aFileChooser\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 823,
+                        "endColumn": 77,
+                        "endOffset": 896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 611,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1121
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC1\\Locker\\aFileChooser\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 734,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1252
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\C:\\Users\\Hitsme\\Desktop\\Locker\\aFileChooser\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\C:\\Users\\Hitsme\\Desktop\\Locker\\aFileChooser\\src\\main\\res\\values\\bool.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 41,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 42,
+                    "endOffset": 135
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\C:\\Users\\Hitsme\\Desktop\\Locker\\aFileChooser\\src\\main\\res\\values\\bool.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 42,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 140,
+                    "endColumn": 48,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\C:\\Users\\Hitsme\\Desktop\\Locker\\aFileChooser\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 770,
+                        "endColumn": 45,
+                        "endOffset": 814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 42,
+                    "endOffset": 227
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\C:\\Users\\Hitsme\\Desktop\\Locker\\aFileChooser\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 729,
+                        "endColumn": 39,
+                        "endOffset": 767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 232,
+                    "endColumn": 54,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\C:\\Users\\Hitsme\\Desktop\\Locker\\aFileChooser\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1091,
+                        "endColumn": 54,
+                        "endOffset": 1141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 53,
+                    "endOffset": 336
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\C:\\Users\\Hitsme\\Desktop\\Locker\\aFileChooser\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 902,
+                        "endColumn": 53,
+                        "endOffset": 951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 341,
+                    "endColumn": 59,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\C:\\Users\\Hitsme\\Desktop\\Locker\\aFileChooser\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 762,
+                        "endColumn": 59,
+                        "endOffset": 817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 69,
+                    "endOffset": 466
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\C:\\Users\\Hitsme\\Desktop\\Locker\\aFileChooser\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 957,
+                        "endColumn": 69,
+                        "endOffset": 1022
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 471,
+                    "endColumn": 61,
+                    "endOffset": 528
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\C:\\Users\\Hitsme\\Desktop\\Locker\\aFileChooser\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1028,
+                        "endColumn": 61,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 533,
+                    "endColumn": 77,
+                    "endOffset": 606
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\C:\\Users\\Hitsme\\Desktop\\Locker\\aFileChooser\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 823,
+                        "endColumn": 77,
+                        "endOffset": 896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 611,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1121
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\C:\\Users\\Hitsme\\Desktop\\Locker\\aFileChooser\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 734,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1252
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "I:\\Locker\\aFileChooser\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "I:\\Locker\\aFileChooser\\src\\main\\res\\values\\bool.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 41,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 42,
+                    "endOffset": 135
+                },
+                "from": {
+                    "file": "I:\\Locker\\aFileChooser\\src\\main\\res\\values\\bool.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 42,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 140,
+                    "endColumn": 48,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "I:\\Locker\\aFileChooser\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 770,
+                        "endColumn": 45,
+                        "endOffset": 814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 42,
+                    "endOffset": 227
+                },
+                "from": {
+                    "file": "I:\\Locker\\aFileChooser\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 729,
+                        "endColumn": 39,
+                        "endOffset": 767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 232,
+                    "endColumn": 54,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "I:\\Locker\\aFileChooser\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1091,
+                        "endColumn": 54,
+                        "endOffset": 1141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 53,
+                    "endOffset": 336
+                },
+                "from": {
+                    "file": "I:\\Locker\\aFileChooser\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 902,
+                        "endColumn": 53,
+                        "endOffset": 951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 341,
+                    "endColumn": 59,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "I:\\Locker\\aFileChooser\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 762,
+                        "endColumn": 59,
+                        "endOffset": 817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 69,
+                    "endOffset": 466
+                },
+                "from": {
+                    "file": "I:\\Locker\\aFileChooser\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 957,
+                        "endColumn": 69,
+                        "endOffset": 1022
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 471,
+                    "endColumn": 61,
+                    "endOffset": 528
+                },
+                "from": {
+                    "file": "I:\\Locker\\aFileChooser\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1028,
+                        "endColumn": 61,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 533,
+                    "endColumn": 77,
+                    "endOffset": 606
+                },
+                "from": {
+                    "file": "I:\\Locker\\aFileChooser\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 823,
+                        "endColumn": 77,
+                        "endOffset": 896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 611,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1121
+                },
+                "from": {
+                    "file": "I:\\Locker\\aFileChooser\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 734,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1252
+                    }
+                }
+            }
+        ]
+    }
+]

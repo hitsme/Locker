@@ -1,0 +1,87 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion rootProject.ext.compileSdkVersion
+    buildToolsVersion rootProject.ext.buildToolsVersion
+    //compileSdkVersion 21
+    //buildToolsVersion '21.1.1'
+    defaultConfig {
+        applicationId "com.hitsme.locker.app"
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.targetSdkVersion
+//        minSdkVersion 14
+//        targetSdkVersion 21
+        versionCode 13
+        versionName "1.0.3"
+        //renderscriptTargetApi 21
+        //renderscriptSupportMode true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    productFlavors {
+    }
+    buildToolsVersion '25.0.0'
+}
+
+repositories {
+    maven { url "http://dl.bintray.com/populov/maven" }
+    mavenCentral()
+    maven { url 'http://JRAF.org/static/maven/2' }
+}
+
+
+
+
+dependencies {
+    // App's dependencies, including test
+    compile "com.android.support:appcompat-v7:$rootProject.supportLibraryVersion"
+    compile "com.android.support:cardview-v7:$rootProject.supportLibraryVersion"
+    compile "com.android.support:design:$rootProject.supportLibraryVersion"
+    compile "com.android.support:recyclerview-v7:$rootProject.supportLibraryVersion"
+    compile "com.android.support:support-v4:$rootProject.supportLibraryVersion"
+    //compile "com.android.support.test.espresso:espresso-idling-resource:$rootProject.espressoVersion"
+    compile "com.google.guava:guava:$rootProject.guavaVersion"
+    compile "io.reactivex:rxjava:$rootProject.rxjavaVersion"
+    compile "io.reactivex:rxandroid:$rootProject.rxandroidVersion"
+    // compile "com.squareup.sqlbrite:sqlbrite:$rootProject.sqlbriteVersion"
+    //dependencias viejas
+    //    compile 'com.android.support:support-v4:21.0.0'
+    //    compile 'com.android.support:support-v13:21.0.0'
+    //    compile 'com.android.support:recyclerview-v7:+'
+    //    compile 'com.android.support:cardview-v7:21.0.0'
+    //    compile 'com.android.support:appcompat-v7:21.0.+'
+    //     compile 'com.google.android.gms:play-services:6.1.11'
+    compile project(':aFileChooser')
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.google.code.gson:gson:2.3.1'
+    compile 'com.android.support:gridlayout-v7:23.4.0'
+    compile 'com.github.chrisbanes.photoview:library:1.2.3'
+    compile 'com.davemorrissey.labs:subsampling-scale-image-view:3.1.2'
+    compile 'com.jakewharton:butterknife:5.1.0'
+    compile 'com.github.johnkil.android-appmsg:appmsg:1.2.0'
+    compile 'org.jraf:android-switch-backport:1.4.0'
+    compile 'com.nineoldandroids:library:2.4.0'
+    compile 'com.github.flavienlaurent.datetimepicker:library:0.0.2'
+    compile 'com.github.ksoichiro:android-observablescrollview:1.2.1'
+    compile 'com.flaviofaria:kenburnsview:1.0.6'
+    compile 'com.melnykov:floatingactionbutton:1.2.0'
+    compile 'com.squareup.picasso:picasso:2.5.0'
+    compile 'de.hdodenhof:circleimageview:2.1.0'
+    compile 'uk.co.samuelwall:material-tap-target-prompt:1.6.3'
+    compile 'com.android.support:support-v4:23.4.0'
+    testCompile 'junit:junit:4.12'
+
+//    compile 'com.jakewharton:butterknife:8.5.1'
+//    annotationProcessor 'com.jakewharton:butterknife-compiler:8.5.1'
+    //  compile project(':library')
+    compile 'com.takisoft.fix:preference-v7:24.1.1.0'
+
+
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+}

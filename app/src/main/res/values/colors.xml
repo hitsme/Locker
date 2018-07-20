@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_error">#fff40056</color>
+
+
+    <color name="ab_primary">#607D8B</color><!-- 6E7982  -->
+    <color name="ab_primary_dark">#455A64</color><!-- 5D6871  -->
+    <color name="ab_accent">#ff4285f4</color> <!-- ffE14026 ff4285f4 8E1EF8 64ffda 7C4DFF  FF6E40-->
+    <color name="ab_text_primary">#D9000000</color><!--  -->
+    <color name="ab_text_secondary">#D9000000</color><!--  -->
+    <color name="ab_statusbar_black">#ff000000</color><!--  -->
+
+    <color name="blinkfeed_text_primary">#ffffffff</color>
+    <color name="blinkfeed_text_secondary">#d9ffffff</color>
+
+
+    <color name="bg_blue">#007ee5</color>
+    <color name="bg_blinkfeed_primary">#159B78</color><!--4CAF50 4EA770  -->
+    <color name="bg_blinkfeed_dark">#0E5B47</color><!--388E3C 469665  -->
+    <color name="bg_blinkfeed_accent">#07DBB2</color><!--69F0AE 4EA770  -->
+
+    <color name="bg_listgallery_start">#ff000000</color>
+    <color name="bg_listgallery_medium">#141414</color>
+    <color name="bg_listgallery_end">#ff000000</color>
+
+    <color name="blur_color_superpuesto">#aa6e7982</color>
+    <color name="blur_color_superpuesto2">#66000000</color>
+    <!-- 66000000 bfe5e5e5  e4292f33 ca292f33-->
+
+
+    <color name="bg_primario">#607D8B</color> <!-- 6E7982  -->
+    <color name="bg_secundario_claro1">#EBEBEB</color>
+    <color name="bg_secundario_claro2">#7796A6</color> <!-- 85929D  -->
+    <color name="bg_secundario_oscuro">#2F3943</color>
+
+
+    <color name="btn_primary_color">#fff</color>
+    <color name="btn_primary_bg">#428bca</color>
+    <color name="btn_primary_border">#285e8e</color>
+    <color name="btn_primary_bg_press_top">#2E6DA4</color>
+    <color name="btn_primary_bg_press_bottom">#3276B1</color>
+    <color name="brand_primary">#7796A6</color> <!-- 85929D  -->
+    <color name="brand_press_primary">#2F3943</color>
+
+
+    <color name="white">#ffffff</color>
+    <color name="edit_text_bg">#EBEBEB</color>
+    <color name="edit_text_text">#484848</color>
+
+    <color name="bg_config">#f2f2f2</color>
+
+
+    <color name="inputtable_text_light">#484848</color>
+
+
+    <color name="edittext_primary">#ff428bca</color>
+    <color name="edittext_border_flat">#ffd0d0d0</color>
+    <color name="edittext_border">#ccc</color>
+    <color name="edittext_disabled">#ffe0e0e0</color>
+
+
+    <color name="text_title">#2F3943</color>
+
+
+    <color name="transparent_bar">#80000000</color>
+
+
+    <color name="bg_edittext">#ffffffff</color>
+
+
+    <!-- -->
+    <color name="fab_primary">#ff4081</color>
+    <color name="fab_primary_pressed">#f50057</color>
+    <color name="fab_ripple">#ff80ab</color>
+
+
+    <!-- la app nueva -->
+    <color name="colorPrimary">#455A64</color>
+    <color name="colorPrimaryDark">#263238</color>
+    <color name="colorAccent">#FFAB00</color>
+
+    <drawable name="completedTaskBackground">#CCCCCC</drawable>
+
+    <drawable name="touchFeedback">#CFD8DC</drawable>
+
+    <color name="black_overlay">#66000000</color>
+</resources>

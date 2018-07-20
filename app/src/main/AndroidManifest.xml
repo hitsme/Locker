@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hitsme.locker.app">
+    <uses-permission android:name="android.permission.USE_FINGERPRINT"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="com.android.browser.permission.READ_HISTORY_BOOKMARKS"/>
+    <uses-permission android:name="com.android.browser.permission.WRITE_HISTORY_BOOKMARKS"/>
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT"/>
+    <application
+        android:name=".LockApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <service
+            android:name=".migracion.MigracionService"
+            android:exported="false" />
+        <service
+            android:name=".addFileToVault.AddFileToVaultService"
+            android:exported="false" />
+        <service
+            android:name=".extract.ExtractService"
+            android:exported="false" />
+
+        <provider
+            android:name=".data.source.CacheAccessProvider"
+            android:authorities="com.hitsme.locker.app"
+            android:exported="true" />
+
+        <activity
+            android:name=".mvp.listVaults.VaultsActivity"
+            android:clearTaskOnLaunch="true"
+            android:excludeFromRecents="true"
+            android:finishOnTaskLaunch="true"
+            android:theme="@style/AppTheme.OverlapSystemBar">
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+        </activity>
+        <activity
+            android:name=".mvp.createVault.CreateEditVaultActivity"
+            android:clearTaskOnLaunch="true"
+            android:excludeFromRecents="true"
+            android:finishOnTaskLaunch="true" />
+        <activity
+            android:name=".mvp.migrar.MigrarActivity"
+            android:clearTaskOnLaunch="true"
+            android:excludeFromRecents="true"
+            android:finishOnTaskLaunch="true"
+            android:label="@string/migrarTitleActivity" />
+        <activity
+            android:name=".mvp.addToVault.AddToVaultActivity"
+            android:clearTaskOnLaunch="true"
+            android:excludeFromRecents="true"
+            android:finishOnTaskLaunch="true">
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="*/*" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND_MULTIPLE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="*/*" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".mvp.openVault.OpenVaultActivity"
+            android:clearTaskOnLaunch="true"
+            android:excludeFromRecents="true"
+            android:finishOnTaskLaunch="true" />
+        <activity
+            android:name=".mvp.viewVault.ViewVaultActivity"
+            android:clearTaskOnLaunch="true"
+            android:excludeFromRecents="true"
+            android:finishOnTaskLaunch="true" />
+        <activity
+            android:name=".mvp.preguntasFrecuentes.PreguntasFrecuentes"
+            android:clearTaskOnLaunch="true"
+            android:excludeFromRecents="true"
+            android:finishOnTaskLaunch="true" />
+        <activity
+            android:name=".mvp.intro.IntroActivity"
+            android:clearTaskOnLaunch="true"
+            android:excludeFromRecents="true"
+            android:finishOnTaskLaunch="true" />
+        <!--<activity-->
+            <!--android:name=".security.finger.FingerPrintActivity"-->
+            <!--android:clearTaskOnLaunch="true"-->
+            <!--android:configChanges="orientation|keyboardHidden|screenSize"-->
+            <!--android:excludeFromRecents="true"-->
+            <!--android:finishOnTaskLaunch="true"-->
+            <!--android:theme="@style/FullscreenTheme">-->
+            <!--<intent-filter>-->
+                <!--<action android:name="android.intent.action.MAIN" />-->
+
+                <!--<category android:name="android.intent.category.LAUNCHER" />-->
+            <!--</intent-filter>-->
+        <!--</activity>-->
+        <activity
+            android:name=".security.finger.FingerPrintActivity"
+            android:clearTaskOnLaunch="true"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:excludeFromRecents="true"
+            android:finishOnTaskLaunch="true"
+            android:theme="@style/Base.AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"></action>
+                <category android:name="android.intent.category.DEFAULT"></category>
+                <data android:mimeType="application/lock"></data>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.ipaulpro.afilechooser.FileChooserActivity"
+            android:exported="true"
+            android:icon="@drawable/ic_chooser"
+            android:label="@string/choose_file">
+            <intent-filter>
+                <action android:name="android.intent.action.GET_CONTENT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.OPENABLE" />
+
+                <data android:mimeType="*/*" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".mvp.editVault.EditVault"></activity>
+
+        <activity
+            android:name=".robot.robot.MainActivity"
+            android:clearTaskOnLaunch="true"
+            android:excludeFromRecents="true"
+            android:finishOnTaskLaunch="true" />
+
+        <!--锁屏-->
+        <!--<activity-->
+        <!--android:name=".sample.app.MainActivity"-->
+        <!--android:label="@string/main_title"-->
+        <!--android:launchMode="singleTop">-->
+            <!--<intent-filter>-->
+                <!--<action android:name="android.intent.action.MAIN" />-->
+                <!--<category android:name="android.intent.category.LAUNCHER" />-->
+            <!--</intent-filter>-->
+    <!--</activity>-->
+
+    <!--<activity-->
+        <!--android:name=".sample.app.PatternLockActivity"-->
+        <!--android:label="@string/pattern_lock_title"-->
+        <!--android:launchMode="singleTop">-->
+        <!--<meta-data-->
+            <!--android:name="android.support.PARENT_ACTIVITY"-->
+            <!--android:value=".sample.app.MainActivity" />-->
+    <!--</activity>-->
+
+    <!--<activity-->
+        <!--android:name=".sample.app.SetPatternActivity"-->
+        <!--android:label="@string/set_pattern_title"-->
+        <!--android:launchMode="singleTop">-->
+        <!--<meta-data-->
+            <!--android:name="android.support.PARENT_ACTIVITY"-->
+            <!--android:value=".sample.app.PatternLockActivity" />-->
+    <!--</activity>-->
+
+    <!--<activity-->
+        <!--android:name=".sample.app.ConfirmPatternActivity"-->
+        <!--android:label="@string/confirm_pattern_title"-->
+        <!--android:launchMode="singleTop" />-->
+
+    <!--<activity-->
+        <!--android:name=".sample.app.ResetPatternActivity"-->
+        <!--android:label="@string/reset_pattern_title"-->
+        <!--android:launchMode="singleTop" />-->
+
+    <!--<activity-->
+        <!--android:name=".sample.app.AboutActivity"-->
+        <!--android:label="@string/about_title"-->
+        <!--android:launchMode="singleTop" />-->
+
+
+
+
+
+        <activity
+            android:name=".mvp.UI.SettingActivity"
+            android:clearTaskOnLaunch="true"
+            android:excludeFromRecents="true"
+            android:finishOnTaskLaunch="true" />
+        <activity
+            android:name=".cloud.webActivity"
+            android:clearTaskOnLaunch="true"
+            android:excludeFromRecents="true"
+            android:finishOnTaskLaunch="true" />
+        <activity
+            android:name=".cloud.SelectCloudActivity"
+            android:clearTaskOnLaunch="true"
+            android:excludeFromRecents="true"
+            android:finishOnTaskLaunch="true" />
+    </application>
+
+</manifest>

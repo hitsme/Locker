@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation" >
+    <string name="Apptheme">主题</string>
+    <string name="Parttern_Lock">图案锁屏</string>
+    <string name="pl_cancel">取消</string>
+    <string name="pl_confirm">确认</string>
+    <string name="pl_confirm_pattern">再次绘制图案以确认</string>
+    <string name="pl_continue">继续</string>
+    <string name="pl_draw_pattern">绘制解锁图案</string>
+    <string name="pl_draw_pattern_to_unlock">绘制图案以解锁</string>
+    <string name="pl_forgot_pattern">忘记图案</string>
+    <string name="pl_pattern_confirmed">您的新解锁图案</string>
+    <string name="pl_pattern_recorded">已记录图案</string>
+    <string name="pl_pattern_too_short">至少连接 %d 个点，请重画</string>
+    <string name="pl_recording_pattern">完成后松开手指</string>
+    <string name="pl_redraw">重画</string>
+    <string name="pl_wrong_pattern">图案错误，请重试</string>
+
+    <string name="pl_access_pattern_start">"开始绘制图案"</string>
+    <string name="pl_access_pattern_cleared">"图案已清除"</string>
+    <string name="pl_access_pattern_cell_added">"已添加单元格"</string>
+    <string name="pl_access_pattern_cell_added_verbose">"已添加圆点 <xliff:g id="CELL_INDEX">%1$d</xliff:g>"</string>
+    <string name="pl_access_pattern_detected">"图案绘制完成"</string>
+    <string name="pl_access_pattern_area">"图案区域。"</string>
+
+
+
+    <string name="main_title">@string/app_name</string>
+    <string name="pref_title_pattern_lock">图案解锁</string>
+    <string name="pref_title_theme">主题</string>
+    <string name="pref_summary_theme">[ %1$s ]</string>
+    <string name="pref_dialog_title_theme">选择主题</string>
+    <string-array name="pref_entries_theme">
+        <item>浅色主题</item>
+        <item>深色主题</item>
+    </string-array>
+    <string name="pref_title_about">关于</string>
+
+    <string name="pattern_lock_title">图案解锁</string>
+    <string name="pref_title_set_pattern">设置解锁图案</string>
+    <string name="pref_summary_set_pattern_none">[ 未设置图案 ]</string>
+    <string name="pref_summary_set_pattern_has">[ 已设置图案 ]</string>
+    <string name="pref_title_pattern_visible">使图案可见</string>
+    <string name="pref_summary_pattern_visible_off">将在绘制时隐藏图案</string>
+    <string name="pref_summary_pattern_visible_on">将在绘制时显示图案</string>
+    <string name="pref_title_clear_pattern">清除解锁图案</string>
+    <string name="pref_dialog_message_clear_pattern">要清除解锁图案吗？</string>
+    <string name="pattern_cleared">已清除解锁图案</string>
+
+    <string name="set_pattern_title">设置解锁图案</string>
+    <string name="confirm_pattern_title">确认解锁图案</string>
+    <string name="reset_pattern_title">确认密码以重置图案</string>
+    <string name="reset_pattern_message">点击“确定”以重置解锁图案。</string>
+    <string name="pattern_reset">忘记密码，请保存数据，重置应用！</string>
+
+    <string name="about_title">关于</string>
+    <string name="about_name">PatternLock</string>
+    <string name="about_version">版本 %1$s</string>
+    <string name="about_credit">关于</string>
+    <string name="about_baidu"><a href="https://baidu.com/">百度一下</a></string>
+
+
+    <string name="action_share">分享</string>
+    <string name="app_name">密空间</string>
+    <string name="action_settings">设置</string>
+    <string name="default_settings">重置设置</string>
+    <string name="lock">锁</string>
+    <string name="lockm">锁</string>
+    <string name="unlock">解锁</string>
+    <string name="unlockm">解锁</string>
+    <string name="empty_password">密码为空</string>
+    <string name="re_password">再次输入密码</string>
+    <string name="nomatch_password">密码不匹配.</string>
+    <string name="working">运行中</string>
+    <string name="error">出错</string>
+    <string name="open">打开</string>
+    <string name="openm">打开</string>
+    <string name="extract">提取</string>
+    <string name="extractm">提取</string>
+    <string name="password">密码</string>
+    <string name="repassword">再次输入密码</string>
+    <string name="cancel">取消</string>
+    <string name="save">保存</string>
+    <string name="files">%1$s Files</string>
+    <string name="file">1 File</string>
+    <string name="send_to">发送给</string>
+    <string name="r0">&#160;&#160;密空间能够加密你的敏感信息，使用有什么问题，请联系我新浪微博 &lt;a href=http://weibo.com/u/1835567007>Sina&lt;/a></string>
+    <string name="r00">&#160;&#160;密空间能够加密你的敏感信息，使用有什么问题，请联系我新浪微博 &lt;a href=http://weibo.com/u/1835567007>Sina&lt;/a>.\n</string>
+    <string name="q1">密空间安全吗?</string>
+    <string name="r1">&#160;&#160;密空间使用的加密算法AES，使用256位密钥进行加密，不用担心数据被破解。</string>
+    <string name="q2">我的信息被保护了吗？</string>
+    <string name="r2">&#160;&#160;密空间保证不会把你的数据从您的手机中窃取，不用担心你的信息泄露。</string>
+    <string name="q3">我可以共享加密文件吗？</string>
+    <string name="r3">&#160;&#160;&#160;&#160;是可以的，共享一个加密的文件，你进入加密库后，找到共享图标按钮，选择进行分享，并将加密密码告知好友即可查看加密数据。上传云端时请选择内存储空间../Lock/Vaults路径下的加密文件进行上传！</string>
+    <string name="intro_tittle0">具体看应用说明。</string>
+    <string name="intro_desc0">使用密空间你可以轻松加密你的敏感信息，保护你的个人Data。</string>
+    <string name="ok1">了解</string>
+    <string name="skip">下一步</string>
+    <string name="encrypt">加密</string>
+    <string name="yourdatasafe">你的数据是安全的</string>
+    <string name="workcomplete">操作完成</string>
+    <string name="enterhere">[请输入你的信息]</string>
+    <string name="action_rate">评价</string>
+    <string name="share_subject">查看这个应用!</string>
+    <!--<string name="z_no_vaults_all">No hay vovedas</string>-->
+    <!--<string name="z_no_vaults_add">No hay vaults, toque para a;adir una bobeda</string>-->
+    <string name="z_loading_tasks_error">错误加载库</string>
+    <string name="z_edit">编辑</string>
+    <string name="z_edit_task">编辑</string>
+    <string name="name_vault">名字</string>
+    <string name="empty_name">名字不能为空!</string>
+    <string name="exists_vault_whith_name">名字已经存在，请重新输入！</string>
+    <string name="migrarTitleActivity">升级</string>
+    <string name="error_open_file">打开文件错误</string>
+    <string name="migrando_vault">升级应用中...</string>
+    <string name="vault_1">密空间:  %1$s</string>
+    <string name="loading">加载中 ...</string>
+    <string name="error_open_vault">密码错误！</string>
+    <string name="menu_lista">列表</string>
+    <string name="delete">删除</string>
+    <string name="action_undo">撤销</string>
+    <string name="notice_removed">项目已移动</string>
+    <string name="choose_file">选择一个文件</string>
+    <string name="aniadiendo_archivos">添加文件</string>
+    <string name="desbloqueando_archivo">解密文件</string>
+    <string name="selecione_la_bobeda_a_aniadir">选择这个加密库</string>
+    <string name="menu_grid">网格</string>
+    <string name="contacto">密助手</string>
+    <string name="preguntasFrecuentes">关于</string>
+    <!--<string name="tutorial">Tutorial</string>-->
+    <string name="share">分享</string>
+    <string name="cloud">云空间</string>
+    <string name="Share">评价</string>
+    <string name="contenido_bobeda_vacio_titulo">添加你的第一个文件</string>
+    <string name="lista_bobeda_vacio_titulo">新建一个加密库</string>
+    <string name="archivo_no_encontrado">文件没有发现: </string>
+    <string name="string_intro">使用密空间，你可以轻松和安全地锁定任何文件。多个加密文件保存在一个名为“Lock”的文件夹中，该文件夹位于设备的主目录中。</string>
+    <string name="z_add_task">新建加密库</string>
+    <string name="empty_vault_message">加密库不为空</string>
+    <string name="extrayendo_archivo">解密文件中 ...</string>
+    <string name="archivo_extraido_correcto">文件已解密完成</string>
+    <string name="archivo_desbloqueado_correcto">文件已解密完成</string>
+    <string name="contenido_bobeda_vacio_descripcion">这个加密库是空的，添加你的第一个文件</string>
+    <string name="lista_bobeda_vacio_descripcion">点击创建您的第一个加密库，并在里面您可以保存文件安全</string>
+    <string name="abrir_boveda">打开加密库</string>
+    <string name="actualPassword">实际密码</string>
+    <string name="edit">编辑</string>
+    <string name="delete_message">你确定要删除吗?</string>
+    <string name="error_delete_file">删除文件失败！</string>
+
+    <!--<string name="title_activity_intro">IntroActivity</string>-->
+    <!--<string name="dummy_button">Dummy Button</string>-->
+    <!--<string name="dummy_content">DUMMY\nCONTENT</string>-->
+
+    <!--
+action_share="Share"
+app_name="Lock"
+action_settings="Settings"
+default_settings="Reset Settings"
+secure_view="Secure View"
+action_newpicture="New Image"
+action_addtogallery="Add to gallery"
+title_activity_error="Error"
+lock="Lock"
+lockm="LOCK"
+unlock="Unlock"
+unlockm="UNLOCK"
+empty_password="Empty password"
+re_password=re-"enter password"
+nomatch_password="The passwords do not match."
+save_changes="The changes have been saved."
+new_expiration="New due date: %1$s"
+error_noblock="Could not lock file"
+error_nofind="The file is not in the device"
+open_all="Have been opened all pictures."
+working="Working"
+workingL="Lock in progress"
+workingU="Unlocking in progress"
+error="Error"
+unlocked="It has been successfully unlocked"
+error_open="Could not open file %1$s for the reason: %2$s"
+error_open2="Could not open file. for the reason: %1$s"
+error_unlock="Could not unlock the file %1$s for the reason: %2$s"
+error_lock="Could not lock the file. %1$s for the reason:  %2$s"
+error_lock2="Could not lock the file. for the reason: %1$s"
+error_version="Outdated version of the program; install a new version"
+error_defeated="The file has expired"
+error_nosecureview="This file does no support secure viewing; try to extract it"
+error_password="Make sure the password is correct"
+error_delete="Can not delete the file. For the reason: %1$s"
+error_delete2="Can not delete the file %1$s. For the reason: %2$s"
+locked_correct="It has been locked correctly"
+error_notfound="File not found"
+error_notfound2="File %1$s not found"
+open="Open"
+openm="OPEN"
+extract="extract"
+extractm="EXTRACT"
+password="Password"
+repassword="Re-enter the password"
+error_mal="Something went wrong.\nVery, very, very wrong."
+expiration_date="Expiration date"
+only_device="Only open in this device"
+configL="ENCRYPTION SETTING"
+configU="DECRYPT SETTING"
+image_mode="Image mode"
+always_password="Always use the same password"
+cancel="Cancel"
+save="Save"
+files="1$s Files"
+file="1 File"
+tut="TUTORIA"L
+cons="CONTACT"
+donar="DONATE"
+
+
+encrypt="Encrypt"
+notextract="No extract"
+dejarcopia="Not delete the original files"
+
+error_noextract="This file is not allowed to extract"
+yourdatasafe="Your data is safe"
+workcomplete="The work has been finalised"
+
+-->
+
+
+    <string name="fingerprint_description">验证指纹密码</string>
+    <string name="fingerprint_hint">点击开始按钮输入指纹</string>
+
+    <!-- Button text -->
+    <string name="start_btn">开始</string>
+    <string name="cancel_btn">取消</string>
+
+    <string name="fingerprint_success">Fingerprint recognized.</string>
+    <string name="fingerprint_not_recognized">Fingerprint not recognized. Try again.</string>
+
+    <!-- Dialog info -->
+    <string name="no_sensor_dialog_title">No fingerprint sensor</string>
+    <string name="no_sensor_dialog_message">No fingerprint sensor on your device, click cancel to exit.</string>
+    <string name="no_fingerprint_enrolled_dialog_title">No fingerprint enrolled</string>
+    <string name="no_fingerprint_enrolled_dialog_message">No fingerprint enrolled, enter\n
+        <font fgcolor="green">Setting->Security->Nexus Imprint\n</font>
+        to enrollor click cancel to exit.</string>
+    <string name="ok_btn_dialog">OK</string>
+    <string name="cancel_btn_dialog">Cancel</string>
+
+    <!-- auth result error amd help code warning -->
+    <string name="AcquiredGood_warning">The image acquired was good.</string>
+    <string name="AcquiredImageDirty_warning">The fingerprint image was too noisy due to suspected or detected dirt on the sensor.
+        For example, it\'s reasonable to return this after multiple AcquiredInsufficient or
+        actual detection of dirt on the sensor (stuck pixels, swaths, etc.).
+        The user is expected to take action to clean the sensor when this is returned.</string>
+    <string name="AcquiredInsufficient_warning">The fingerprint image was too noisy to process due to
+        a detected condition (i.e. dry skin) or a possibly dirty sensor.</string>
+    <string name="AcquiredPartial_warning">Only a partial fingerprint image was detected.
+        During enrollment, the user should be informed on what needs to happen to resolve this problem, e.g., "press firmly on sensor."</string>
+    <string name="AcquiredTooFast_warning">The fingerprint image was incomplete due to quick motion.
+        While mostly appropriate for linear array sensors, this could also happen if the finger was moved during acquisition.
+        The user should be asked to move the finger slower (linear) or leave the finger on the sensor longer.</string>
+    <string name="AcquiredToSlow_warning">The fingerprint image was unreadable due to lack of motion.
+        This is most appropriate for linear array sensors that require a swipe motion.</string>
+    <string name="ErrorCanceled_warning">The operation was canceled because the fingerprint sensor is unavailable.
+        For example, this may happen when the user is switched,
+        the device is locked, or another pending operation prevents or disables it.</string>
+    <string name="ErrorHwUnavailable_warning">The hardware is unavailable. Try again later.</string>
+    <string name="ErrorLockout_warning">The operation was canceled because the API is locked out due to too many attempts.</string>
+    <string name="ErrorNoSpace_warning">Error state returned for operations like enrollment;
+        the operation cannot be completed because there\'s not enough storage remaining to complete the operation.</string>
+    <string name="ErrorTimeout_warning">Error state returned when the current request has been running too long.
+        This is intended to prevent programs from waiting for the fingerprint sensor indefinitely.
+        The timeout is platform and sensor-specific, but is generally about 30 seconds.</string>
+    <string name="ErrorUnableToProcess_warning">Error state returned when the sensor was unable to process the current image.</string>
+</resources>
+
+
+    <!--
+
+
+    <string name="action_share">Share</string>
+    <string name="app_name">Lock</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="default_settings">Reset Settings</string>
+    <string name="secure_view">Secure View</string>
+    <string name="action_newpicture">New Image</string>
+    <string name="action_addtogallery">Add to gallery</string>
+    <string name="title_activity_error">Error</string>
+    <string name="lock">Lock</string>
+    <string name="lockm">LOCK</string>
+    <string name="unlock">Unlock</string>
+    <string name="unlockm">UNLOCK</string>
+    <string name="empty_password">Empty password</string>
+    <string name="re_password">re-enter password</string>
+    <string name="nomatch_password">The passwords do not match.</string>
+    <string name="save_changes">The changes have been saved.</string>
+    <string name="new_expiration">New due date: %1$s</string>
+    <string name="error_noblock">Could not lock file</string>
+    <string name="error_nofind">The file is not in the device</string>
+    <string name="open_all">Have been opened all pictures.</string>
+    <string name="working">Working</string>
+    <string name="workingL">Lock in progress</string>
+    <string name="workingU">Unlocking in progress</string>
+    <string name="error">Error</string>
+    <string name="unlocked">It has been successfully unlocked</string>
+    <string name="error_open">Could not open file %1$s for the reason: %2$s</string>
+    <string name="error_open2">Could not open file. for the reason: %1$s</string>
+    <string name="error_unlock">Could not unlock the file %1$s for the reason: %2$s</string>
+    <string name="error_lock">Could not lock the file. %1$s for the reason:  %2$s</string>
+    <string name="error_lock2">Could not lock the file. for the reason: %1$s</string>
+    <string name="error_version">Outdated version of the program; install a new version</string>
+    <string name="error_defeated">The file has expired</string>
+    <string name="error_nosecureview">This file does no support secure viewing; try to extract it</string>
+    <string name="error_password">Make sure the password is correct</string>
+    <string name="error_delete">Can not delete the file. For the reason: %1$s</string>
+    <string name="error_delete2">Can not delete the file %1$s. For the reason: %2$s</string>
+    <string name="locked_correct">It has been locked correctly</string>
+    <string name="error_notfound">File not found</string>
+    <string name="error_notfound2">File %1$s not found</string>
+    <string name="open">Open</string>
+    <string name="openm">OPEN</string>
+    <string name="extract">extract</string>
+    <string name="extractm">EXTRACT</string>
+    <string name="password">Password</string>
+    <string name="repassword">Re-enter the password</string>
+    <string name="error_mal">Something went wrong.\nVery, very, very wrong.</string>
+    <string name="expiration_date">Expiration date</string>
+    <string name="only_device">Only open in this device</string>
+    <string name="configL">ENCRYPTION SETTING</string>
+    <string name="configU">DECRYPT SETTING</string>
+    <string name="image_mode">Image mode</string>
+    <string name="always_password">Always use the same password</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="files">%1$s Files</string>
+    <string name="file">1 File</string>
+    <string name="tut">TUTORIAL</string>
+    <string name="cons">CONTACT</string>
+    <string name="donar">DONATE</string>
+
+    <string name="send_to">Send to</string>
+    <string name="exp">These features are experimental, and are still not entirely safe.</string>
+
+    <string name="intro_title1">It protects any  files.</string>
+    <string name="intro_desc1">Share files that you want to lock, for example from your gallery app. And select share with Lock</string>
+
+    <string name="intro_title2">Lock will then do its job.</string>
+    <string name="intro_desc2">You may view the advance in a notification. And once it finished, you can find the locked file.</string>
+
+    <string name="intro_title3">To unlock it is just as easy.</string>
+    <string name="intro_desc3">To unlock, select share and then Lock.</string>
+
+    <string name="r0">This app is free, without ads, and you can find the source code on &lt;a href=https://github.com/lockapp/androidapp>github&lt;/a>. If you find that this was useful, it would be good of you to donate a few pennies to the coffee. Donating is the best way to contribute to new features and every little bit counts. You can find some FAQs below.</string>
+
+    <string name="q1">Is Lock safe?</string>
+    <string name="r1">The short answer is yes.\nBut in reality, this is a bit longer; in many parts of the application it talks about blocking due to many users not being familiar with term such as encrypting, but what really happens is that your information is encrypted using AES; the same state-of-the-art encryption algorithm used as the national standard in the United States. Lock uses 256-bit keys for encryption, which means that it would take millions of years for a criminal to decrypt your data using a brute force attack.</string>
+
+    <string name="q2">Is my information protected?</string>
+    <string name="r2">The difference from other applications is that it has only one permission. It can only access external storage (SD Card) to encrypt your files. It has no access to the internet, SMS or other networks. Therefore Lock has no way to send your data out of your phone.\nOn the other hand, Lock is hosted on github and anyone who wishes to may see it.</string>
+
+    <string name="q3">Can I share encrypted images?</string>
+    <string name="r3">Yes, to share an encrypted image, you have to open it and find the share icon in the action bar of the image viewer that incorporates Lock. And for versions >= 4.1, you can also find the share button in the notification that is generated to lock a file.\nAt this time, this is the only way to do this, as many applications, at the time of sending images, reduce their size, causing the encrypted content to be lost, so you cannot share encrypted images from the gallery. But improvement of  this experience is in the works.</string>
+
+    <string name="intro_tittle0">Take a look at the Lock operation.</string>
+    <string name="intro_desc0">With Lock, you can lock any file easily and safely</string>
+
+    <string name="ok1">Understand</string>
+    <string name="skip">Skip</string>
+
+    <string name="VideoView_error_text_invalid_progressive_playback">This video isn\'t valid for streaming to this device.</string>
+    <string name="VideoView_error_text_unknown" >Can\'t play this video.</string>
+    <string name="VideoView_error_button">OK</string>
+
+
+    <string name="encrypt">Encrypt</string>
+    <string name="notextract">No extract</string>
+    <string name="dejarcopia">Not delete the original files</string>
+
+    <string name="error_noextract">This file is not allowed to extract</string>
+    <string name="yourdatasafe">Your data is safe</string>
+    <string name="workcomplete">The work has been finalised</string>
+
+    <string name="enterhere">[Enter your message here]</string>
+
+    <string name="warning_encrypt">If not encrypt your files, they will not be safe.</string>
+
+    <string name="action_rate">Rate this app</string>
+    <string name="share_subject">Check out this app!</string>
+-->

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="I:\Locker\aFileChooser\src\main\assets"/><source path="I:\Locker\aFileChooser\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="I:\Locker\aFileChooser\src\release\assets"/></dataSet></merger>

@@ -1,0 +1,174 @@
+[
+    {
+        "outputFile": "I:\\media\\root\\56E8D89D034D29FC1\\Locker\\aFileChooser\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC1\\Locker\\aFileChooser\\src\\main\\res\\values-v19\\bool.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 42,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 41,
+                    "endOffset": 135
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC1\\Locker\\aFileChooser\\src\\main\\res\\values-v19\\bool.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 41,
+                        "endOffset": 140
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\C:\\Users\\Hitsme\\Desktop\\Locker\\aFileChooser\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\C:\\Users\\Hitsme\\Desktop\\Locker\\aFileChooser\\src\\main\\res\\values-v19\\bool.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 42,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 41,
+                    "endOffset": 135
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\C:\\Users\\Hitsme\\Desktop\\Locker\\aFileChooser\\src\\main\\res\\values-v19\\bool.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 41,
+                        "endOffset": 140
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\aFileChooser\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\aFileChooser\\src\\main\\res\\values-v19\\bool.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 42,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 41,
+                    "endOffset": 135
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\aFileChooser\\src\\main\\res\\values-v19\\bool.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 41,
+                        "endOffset": 140
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "I:\\Locker\\aFileChooser\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "I:\\Locker\\aFileChooser\\src\\main\\res\\values-v19\\bool.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 42,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 41,
+                    "endOffset": 135
+                },
+                "from": {
+                    "file": "I:\\Locker\\aFileChooser\\src\\main\\res\\values-v19\\bool.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 41,
+                        "endOffset": 140
+                    }
+                }
+            }
+        ]
+    }
+]

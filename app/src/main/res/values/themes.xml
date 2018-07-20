@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--<style name="AppTheme" parent="PreferenceFixTheme.Light.DarkActionBar">-->
+        <!--<item name="android:windowDisablePreview">true</item>-->
+        <!--<item name="colorPrimary">#ff263238</item>-->
+        <!--<item name="colorPrimaryDark">#ff21272b</item>-->
+        <!--<item name="colorControlNormal">@color/material_blue_grey_800</item>-->
+        <!--<item name="android:windowBackground">@android:color/white</item>-->
+        <!--<item name="preferenceCategory_marginBottom">0dp</item>-->
+        <!--<item name="patternViewStyle">@style/PatternView.Light</item>-->
+    <!--</style>-->
+
+    <style name="AppTheme.Dark" parent="PreferenceFixTheme">
+        <item name="android:windowDisablePreview">true</item>
+        <item name="preferenceCategory_marginBottom">0dp</item>
+        <item name="patternViewStyle">@style/PatternView</item>
+    </style>
+
+
+
+
+
+
+    <!-- Estilo de laa aplicacion-->
+    <style name="PrincipalTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- colorPrimary is used for the default action bar background -->
+        <item name="colorPrimary">@color/ab_primary</item>
+        <!-- colorPrimaryDark is used for the status bar -->
+        <item name="colorPrimaryDark">@color/ab_primary_dark</item>
+        <!-- colorAccent is used as the default value for colorControlActivated
+     which is used to tint widgets -->
+        <item name="colorAccent">@color/ab_accent</item>
+        <item name="android:textColorPrimary">@color/ab_text_primary</item>
+        <item name="android:textColor">@color/ab_text_secondary</item>
+        <!--  <item name="android:navigationBarColor">@color/primary_dark</item>-->
+    </style>
+
+
+
+    <!-- se usa para el visor e imagenes en forma de grid-->
+    <style name="BlinkFeed" parent="BlinkFeedBase"/>
+    <style name="BlinkFeedBase" parent="Light.NoActionBar">
+        <!-- colorPrimary is used for the default action bar background -->
+        <item name="colorPrimary">@color/bg_blinkfeed_primary</item>
+        <!-- colorPrimaryDark is used for the status bar -->
+        <item name="colorPrimaryDark">@color/bg_blinkfeed_dark</item>
+        <!-- colorAccent is used as the default value for colorControlActivated
+     which is used to tint widgets -->
+        <item name="colorAccent">@color/bg_blinkfeed_accent</item>
+        <item name="android:textColorPrimary">@color/blinkfeed_text_primary</item>
+        <item name="android:textColor">@color/blinkfeed_text_secondary</item>
+        <!--  <item name="android:navigationBarColor">@color/primary_dark</item>-->
+    </style>
+
+
+    <!-- Estilo para may activity, introduccion y play video-->
+    <style name="Light.NoActionBar.BlinkFeed" parent="Light.NoActionBar.BlinkFeedBase"/>
+    <style name="Light.NoActionBar.BlinkFeedBase" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/bg_blinkfeed_primary</item>
+        <!-- colorAccent is used as the default value for colorControlActivated
+     which is used to tint widgets -->
+        <item name="colorAccent">@color/bg_blinkfeed_accent</item>
+        <item name="colorPrimaryDark">@color/ab_statusbar_black</item>
+    </style>
+
+
+    <!-- Estilo para may activity, introduccion y play video-->
+    <style name="Light.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+
+
+
+
+    <!-- Estilo para Main, los recibe-->
+    <style name="Principal.Light.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/ab_primary</item>
+        <item name="colorPrimaryDark">@color/ab_primary_dark</item>
+        <item name="colorAccent">@color/ab_accent</item>
+        <item name="android:textColorPrimary">@color/ab_text_primary</item>
+        <item name="android:textColor">@color/ab_text_secondary</item>
+    </style>
+
+    <!-- Estilo para instrucciones, list media, play video -->
+    <style name="Principal.Light.NoActionBar.BlackStatusBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/ab_primary</item>
+        <item name="colorPrimaryDark">@color/ab_statusbar_black</item>
+        <item name="colorAccent">@color/ab_accent</item>
+        <item name="android:textColorPrimary">@color/ab_text_primary</item>
+        <item name="android:textColor">@color/ab_text_secondary</item>
+    </style>
+
+
+
+
+    <style name="Principal.Toolbar" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/ab_primary</item>
+        <!-- colorPrimaryDark is used for the status bar -->
+        <item name="colorPrimaryDark">@color/ab_primary_dark</item>
+        <item name="colorAccent">@color/ab_accent</item>
+    </style>
+
+</resources>

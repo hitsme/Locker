@@ -1,0 +1,326 @@
+[
+    {
+        "outputFile": "I:\\Locker\\aFileChooser\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-it\\values-it.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 59,
+                    "endOffset": 110
+                },
+                "from": {
+                    "file": "I:\\Locker\\aFileChooser\\src\\main\\res\\values-it\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 2,
+                        "startOffset": 245,
+                        "endColumn": 57,
+                        "endOffset": 300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 115,
+                    "endColumn": 59,
+                    "endOffset": 170
+                },
+                "from": {
+                    "file": "I:\\Locker\\aFileChooser\\src\\main\\res\\values-it\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 88,
+                        "endColumn": 57,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 175,
+                    "endColumn": 79,
+                    "endOffset": 250
+                },
+                "from": {
+                    "file": "I:\\Locker\\aFileChooser\\src\\main\\res\\values-it\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 2,
+                        "startOffset": 304,
+                        "endColumn": 77,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 255,
+                    "endColumn": 98,
+                    "endOffset": 349
+                },
+                "from": {
+                    "file": "I:\\Locker\\aFileChooser\\src\\main\\res\\values-it\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 147,
+                        "endColumn": 96,
+                        "endOffset": 241
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\aFileChooser\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-it\\values-it.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 59,
+                    "endOffset": 110
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\aFileChooser\\src\\main\\res\\values-it\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 2,
+                        "startOffset": 245,
+                        "endColumn": 57,
+                        "endOffset": 300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 115,
+                    "endColumn": 59,
+                    "endOffset": 170
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\aFileChooser\\src\\main\\res\\values-it\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 88,
+                        "endColumn": 57,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 175,
+                    "endColumn": 79,
+                    "endOffset": 250
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\aFileChooser\\src\\main\\res\\values-it\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 2,
+                        "startOffset": 304,
+                        "endColumn": 77,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 255,
+                    "endColumn": 98,
+                    "endOffset": 349
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\aFileChooser\\src\\main\\res\\values-it\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 147,
+                        "endColumn": 96,
+                        "endOffset": 241
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\C:\\Users\\Hitsme\\Desktop\\Locker\\aFileChooser\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-it\\values-it.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 59,
+                    "endOffset": 110
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\C:\\Users\\Hitsme\\Desktop\\Locker\\aFileChooser\\src\\main\\res\\values-it\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 2,
+                        "startOffset": 245,
+                        "endColumn": 57,
+                        "endOffset": 300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 115,
+                    "endColumn": 59,
+                    "endOffset": 170
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\C:\\Users\\Hitsme\\Desktop\\Locker\\aFileChooser\\src\\main\\res\\values-it\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 88,
+                        "endColumn": 57,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 175,
+                    "endColumn": 79,
+                    "endOffset": 250
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\C:\\Users\\Hitsme\\Desktop\\Locker\\aFileChooser\\src\\main\\res\\values-it\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 2,
+                        "startOffset": 304,
+                        "endColumn": 77,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 255,
+                    "endColumn": 98,
+                    "endOffset": 349
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC\\Locker\\C:\\Users\\Hitsme\\Desktop\\Locker\\aFileChooser\\src\\main\\res\\values-it\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 147,
+                        "endColumn": 96,
+                        "endOffset": 241
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "I:\\media\\root\\56E8D89D034D29FC1\\Locker\\aFileChooser\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-it\\values-it.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 59,
+                    "endOffset": 110
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC1\\Locker\\aFileChooser\\src\\main\\res\\values-it\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 2,
+                        "startOffset": 245,
+                        "endColumn": 57,
+                        "endOffset": 300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 115,
+                    "endColumn": 59,
+                    "endOffset": 170
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC1\\Locker\\aFileChooser\\src\\main\\res\\values-it\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 88,
+                        "endColumn": 57,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 175,
+                    "endColumn": 79,
+                    "endOffset": 250
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC1\\Locker\\aFileChooser\\src\\main\\res\\values-it\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 2,
+                        "startOffset": 304,
+                        "endColumn": 77,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 255,
+                    "endColumn": 98,
+                    "endOffset": 349
+                },
+                "from": {
+                    "file": "I:\\media\\root\\56E8D89D034D29FC1\\Locker\\aFileChooser\\src\\main\\res\\values-it\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 147,
+                        "endColumn": 96,
+                        "endOffset": 241
+                    }
+                }
+            }
+        ]
+    }
+]
